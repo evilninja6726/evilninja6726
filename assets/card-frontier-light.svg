@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 112" width="100%" role="img" aria-labelledby="card-frontier-light">
+  <title id="card-frontier-light">Project Frontier — Cosmology &amp; Ringdown — Python 3.12 · SymPy · SciPy · Chebyshev Spectral · DESI DR2 BAO</title>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'SFMono-Regular', Menlo, Monaco, Consolas, 'Liberation Mono', monospace; font-variant-numeric: tabular-nums; }
+  </style>
+  <rect x="1" y="1" width="898" height="110" rx="10" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" />
+  <rect x="1" y="22" width="3" height="68" rx="1.5" fill="#D97706" />
+
+  <text x="24" y="33" class="mono" font-size="10" font-weight="700" fill="#64748B" letter-spacing="0.7">03 // COMPUTATIONAL PHYSICS LAB</text>
+  <g transform="translate(237, 19)">
+    <rect width="148" height="20" rx="10" fill="#FEF3C7" stroke="#CBD5E1" stroke-width="1" />
+    <circle cx="11" cy="10" r="3" fill="#D97706" />
+    <text x="20" y="13.5" class="mono" font-size="9" font-weight="600" fill="#334155" letter-spacing="0.4">EXPLORATION · COLAB</text>
+  </g>
+
+  <text x="24" y="66" class="sans" font-size="22" font-weight="700" fill="#0F172A" letter-spacing="-0.4">Project Frontier — Cosmology &amp; Ringdown</text>
+  <text x="24" y="90" class="mono" font-size="11" font-weight="500" fill="#475569">Python 3.12 · SymPy · SciPy · Chebyshev Spectral · DESI DR2 BAO</text>
+
+  <g transform="translate(528, 20)"><rect width="110" height="72" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" /><text x="55" y="39" text-anchor="middle" class="mono" font-size="15.5" font-weight="700" fill="#0F172A">PY 3.12</text><text x="55" y="57" text-anchor="middle" class="mono" font-size="8.8" font-weight="600" fill="#475569" letter-spacing="0.5">SYMPY · SCIPY</text></g>
+  <g transform="translate(646, 20)"><rect width="110" height="72" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" /><text x="55" y="39" text-anchor="middle" class="mono" font-size="15.5" font-weight="700" fill="#0F172A">DESI DR2</text><text x="55" y="57" text-anchor="middle" class="mono" font-size="8.8" font-weight="600" fill="#475569" letter-spacing="0.5">BAO + SNE IA</text></g>
+  <g transform="translate(764, 20)"><rect width="110" height="72" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" /><text x="55" y="39" text-anchor="middle" class="mono" font-size="15.5" font-weight="700" fill="#0F172A">17 / 17</text><text x="55" y="57" text-anchor="middle" class="mono" font-size="8.8" font-weight="600" fill="#475569" letter-spacing="0.5">PYTEST GATES</text></g>
+</svg>

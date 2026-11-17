@@ -1,0 +1,42 @@
+{
+  "username": "evilninja6726",
+  "account_created_year": 2020,
+  "public_repos": 22,
+  "original_repos": 22,
+  "total_stars": 2,
+  "active_2026_repos": [
+    {
+      "name": "fablearc",
+      "pushed_at": "2026-11-17",
+      "language": "TypeScript",
+      "summary": "4K FFmpeg Streaming & 9-Stage Recommender"
+    },
+    {
+      "name": "frontier-cosmology-lab",
+      "pushed_at": "2026-11-03",
+      "language": "Python",
+      "summary": "Horndeski BAO & Spectral Ringdown Lab"
+    },
+    {
+      "name": "teleport_coding_test",
+      "pushed_at": "2026-01-12",
+      "language": "Java",
+      "summary": "Spring Boot 3.2 Freight Load Optimizer"
+    },
+    {
+      "name": "dsa",
+      "pushed_at": "2024-08-05",
+      "language": "Java",
+      "summary": "461 Java Algorithms & CP Implementations"
+    }
+  ],
+  "language_bytes": {
+    "TypeScript": 991084,
+    "Java": 939606,
+    "Python": 378046,
+    "CSS & JS": 215200,
+    "TeX & Dart": 66824
+  },
+  "synced_month": "2026-11",
+  "content_digest": "3548c4a209e6fd29"
+}

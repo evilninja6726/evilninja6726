@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 292" width="100%" role="img" aria-labelledby="hero-title-light hero-desc-light">
+  <title id="hero-title-light">Rajat — Senior Software Engineer</title>
+  <desc id="hero-desc-light">Senior Software Engineer with 6 years of experience building distributed Java Spring Boot and Python FastAPI backend systems, Kafka event pipelines, polyglot storage, and real-time media and AI workflows.</desc>
+  <defs>
+    <pattern id="grid-light" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.85" fill="#94A3B8" opacity="0.28" />
+    </pattern>
+    <linearGradient id="accent-line-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.95" />
+      <stop offset="65%" stop-color="#059669" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'SFMono-Regular', Menlo, Monaco, Consolas, 'Liberation Mono', monospace; font-variant-numeric: tabular-nums; }
+    .signal {
+      stroke-dasharray: 0.16 0.84;
+      stroke-dashoffset: 1;
+      animation: flow-light 5.5s linear infinite;
+    }
+    .signal-delayed {
+      stroke-dasharray: 0.16 0.84;
+      stroke-dashoffset: 1;
+      animation: flow-light 5.5s linear infinite;
+      animation-delay: -2.4s;
+    }
+    @keyframes flow-light {
+      from { stroke-dashoffset: 1; }
+      to { stroke-dashoffset: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .signal, .signal-delayed { animation: none; stroke-dasharray: none; opacity: 0.35; }
+    }
+  </style>
+
+  <!-- Blueprint Outer Frame -->
+  <rect x="1" y="1" width="898" height="290" rx="12" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" />
+  <rect x="2" y="2" width="896" height="288" rx="11" fill="url(#grid-light)" />
+  <rect x="36" y="1" width="380" height="2" fill="url(#accent-line-light)" />
+  <path d="M9 13 H17 M13 9 V17" stroke="#94A3B8" stroke-width="1" opacity="0.55" />
+  <path d="M883 13 H891 M887 9 V17" stroke="#94A3B8" stroke-width="1" opacity="0.55" />
+  <path d="M9 279 H17 M13 275 V283" stroke="#94A3B8" stroke-width="1" opacity="0.55" />
+  <path d="M883 279 H891 M887 275 V283" stroke="#94A3B8" stroke-width="1" opacity="0.55" />
+
+  <!-- Left Column: Architectural Identity -->
+  <g>
+    <rect x="36" y="30" width="252" height="24" rx="12" fill="#D1FAE5" stroke="#CBD5E1" stroke-width="1" />
+    <circle cx="50" cy="42" r="3.5" fill="#059669" />
+    <text x="61" y="46" class="mono" font-size="10" font-weight="600" fill="#334155" letter-spacing="0.8">SENIOR SOFTWARE ENGINEER · 6 YRS</text>
+    <text x="302" y="46" class="mono" font-size="10" font-weight="500" fill="#64748B" letter-spacing="0.8">// DELHI NCR, IN</text>
+
+    <text x="36" y="98" class="sans" font-size="40" font-weight="700" fill="#0F172A" letter-spacing="-0.9">Rajat</text>
+    <text x="36" y="128" class="sans" font-size="15" font-weight="600" fill="#0284C7" letter-spacing="-0.15">Distributed Systems · Event-Driven Backends · Media &amp; Applied AI</text>
+
+    <text x="36" y="162" class="sans" font-size="13.2" font-weight="400" fill="#334155">Designing fault-tolerant microservices, event pipelines, and low-latency data layers</text>
+    <text x="36" y="183" class="sans" font-size="13.2" font-weight="400" fill="#334155">across Java/Spring Boot, Python FastAPI, TypeScript, and multimodal media engines.</text>
+    <text x="36" y="208" class="mono" font-size="10.5" font-weight="500" fill="#64748B">FOCUS // Service boundaries · Polyglot consistency · Real-time media &amp; search</text>
+  </g>
+
+  <g transform="translate(36, 228)"><rect width="132" height="28" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/><text x="66.0" y="18" text-anchor="middle" class="mono" font-size="10" font-weight="600" fill="#334155" letter-spacing="0.4">JAVA · SPRING BOOT</text></g>
+  <g transform="translate(174, 228)"><rect width="114" height="28" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/><text x="57.0" y="18" text-anchor="middle" class="mono" font-size="10" font-weight="600" fill="#334155" letter-spacing="0.4">KAFKA · FASTAPI</text></g>
+  <g transform="translate(294, 228)"><rect width="136" height="28" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/><text x="68.0" y="18" text-anchor="middle" class="mono" font-size="10" font-weight="600" fill="#334155" letter-spacing="0.4">PG · MONGO · LIBSQL</text></g>
+  <g transform="translate(436, 228)"><rect width="132" height="28" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/><text x="66.0" y="18" text-anchor="middle" class="mono" font-size="10" font-weight="600" fill="#334155" letter-spacing="0.4">FFMPEG · APPLIED AI</text></g>
+
+  <!-- Right Column: Live Distributed Topology Schematic -->
+  <g transform="translate(584, 24)">
+    <rect x="0" y="0" width="288" height="244" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+    <line x1="0" y1="30" x2="288" y2="30" stroke="#CBD5E1" stroke-width="1" />
+    <text x="14" y="19" class="mono" font-size="9.5" font-weight="600" fill="#475569" letter-spacing="0.7">SYS.TOPOLOGY // PIPELINE</text>
+    <text x="274" y="19" text-anchor="end" class="mono" font-size="9.5" font-weight="600" fill="#0284C7">SPEC v2.6</text>
+
+    <!-- Base Wires -->
+    <path d="M76 80 V106 M212 80 V106 M144 142 V166 M76 166 H212 M76 166 V174 M212 166 V174" stroke="#CBD5E1" stroke-width="1.5" fill="none" />
+    <!-- Animated Signal Pulses -->
+    <path pathLength="1" class="signal" d="M76 80 V106 H144 V166 H76 V174" stroke="#0284C7" stroke-width="1.8" fill="none" stroke-linecap="round" />
+    <path pathLength="1" class="signal-delayed" d="M212 80 V106 H144 V166 H212 V174" stroke="#059669" stroke-width="1.8" fill="none" stroke-linecap="round" />
+
+    <!-- Top Nodes -->
+    <rect x="16" y="42" width="120" height="38" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" />
+    <text x="76" y="58" text-anchor="middle" class="sans" font-size="11" font-weight="600" fill="#0F172A">API &amp; Auth Gate</text>
+    <text x="76" y="72" text-anchor="middle" class="mono" font-size="9" fill="#475569">REST · Feign · RBAC</text>
+
+    <rect x="152" y="42" width="120" height="38" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" />
+    <text x="212" y="58" text-anchor="middle" class="sans" font-size="11" font-weight="600" fill="#0F172A">Stream Proxy</text>
+    <text x="212" y="72" text-anchor="middle" class="mono" font-size="9" fill="#475569">L1/L2 · SSRF Guard</text>
+
+    <!-- Event Spine -->
+    <rect x="16" y="106" width="256" height="36" rx="6" fill="#E0F2FE" stroke="#7DD3FC" stroke-width="1" />
+    <text x="144" y="122" text-anchor="middle" class="mono" font-size="10" font-weight="700" fill="#0284C7" letter-spacing="0.6">EVENT &amp; ORCHESTRATION SPINE</text>
+    <text x="144" y="135" text-anchor="middle" class="mono" font-size="8.8" fill="#334155">Kafka Topics · Single-Flight · Async Workers</text>
+
+    <!-- Bottom Nodes -->
+    <rect x="16" y="174" width="120" height="42" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" />
+    <text x="76" y="191" text-anchor="middle" class="sans" font-size="11" font-weight="600" fill="#0F172A">Media &amp; AI</text>
+    <text x="76" y="206" text-anchor="middle" class="mono" font-size="9" fill="#475569">FFmpeg · ASR · LLM</text>
+
+    <rect x="152" y="174" width="120" height="42" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" />
+    <text x="212" y="191" text-anchor="middle" class="sans" font-size="11" font-weight="600" fill="#0F172A">Polyglot State</text>
+    <text x="212" y="206" text-anchor="middle" class="mono" font-size="9" fill="#475569">PG · Mongo · LibSQL</text>
+
+    <text x="144" y="233" text-anchor="middle" class="mono" font-size="8.4" fill="#64748B">idempotent edges · strict schemas · bounded latency</text>
+  </g>
+</svg>
